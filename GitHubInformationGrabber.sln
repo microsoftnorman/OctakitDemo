@@ -5,8 +5,6 @@ VisualStudioVersion = 17.8.34408.163
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GitHubInformationGrabber", "GitHubInformationGrabber.csproj", "{DAEB1584-F67D-4F6A-848B-FD238F7DA72A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GitHubInformationGrabberTests", "..\GitHubInformationGrabberTests\GitHubInformationGrabberTests.csproj", "{82C6CE6D-1028-456D-B391-5FDE98AE7D74}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
